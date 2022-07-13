@@ -1,0 +1,8 @@
+conda env list  查看当前所有已经创建的环境
+
+conda create -n <name> python=3.x 创建你自己的专属环境
+
+conda activate <name> 激活你自己的环境
+
+conda remove -n <name> --all   删除创建的虚拟环境
+conda env remove -n <name>     删除创建的虚拟环境

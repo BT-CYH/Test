@@ -1,0 +1,4 @@
+
+若要使用pyqt请添加以下环境变量
+QT_QPA_PLATFORM_PLUGIN_PATH
+D:\python\Lib\site-packages\PyQt5\Qt\plugins
